@@ -1,9 +1,9 @@
 {
     "name": "Mi aplicación Web",
     "short_name": "app Web",
-    "start_url": "/index.html",
+    "start_url": "index.html",
     "display": "standalone",
-    "description": "Apliación de compras",
+    "description": "Aplicación de compras",
     "theme_color": "#6a5acd",
     "background_color": "#6a5acd",
     "orientation": "portrait",
